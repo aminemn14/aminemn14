@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://amine-moumen.fr" target="_blank">amine-moumen.fr</a>
 
-- 👨‍💻 I'm the founder of a web agency based in Lille. You can check it at <a href="https://www.kodio.studio" target="_blank">www.kodio.studio</a>
+- 👨‍💻 I'm the founder of a web agency based in Lille named Kodio Studio. You can check it at <a href="https://www.kodio.studio" target="_blank">www.kodio.studio</a>
 
 - 📫 How to reach me **aamine.moumen@outlook.fr**
 
