@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amine</h1>
-<h3 align="center">A fullstack developer from France</h3>
+<h3 align="center">A Fullstack Developer & UI-UX Designer from France</h3>
 
 - 👨‍💻 All of my projects are available at <a href="https://amine-moumen.fr" target="_blank">amine-moumen.fr</a>
 
