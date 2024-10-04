@@ -1,9 +1,3 @@
-<style>
-    body {
-        font-family: 'Sora', sans-serif;
-    }
-</style>
-
 # Hi 👋, I'm Amine :
 💫 A Fullstack Developer & UI-UX Designer from France<br /><br />👨‍💻 All of my projects are available at <a href="https://amine-moumen.fr" target="_blank">amine-moumen.fr</a><br /><br />👨‍💻 I'm the founder of a web agency based in Lille named Kodio Studio. You can check it at <a href="https://www.kodio.studio" target="_blank">www.kodio.studio</a><br /><br />📫 How to reach me aamine.moumen@outlook.fr or hello@kodio.studio<br><br>📄 Know about my experiences :<br /><br />- Front-end Developer & Webdesigner at Dreamservices<br /><br />- Fullstack Developer at Anetmo<br /><br />
 
