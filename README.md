@@ -1,10 +1,10 @@
 # Hi 👋, I'm Amine :
-💫 A Fullstack Developer & UI-UX Designer from France<br><br>👨‍💻 All of my projects are available at <a href="https://amine-moumen.fr" target="_blank">amine-moumen.fr</a><br><br>👨‍💻 I'm the founder of a web agency based in Lille named Kodio Studio. You can check it at <a href="https://www.kodio.studio" target="_blank">www.kodio.studio</a><br><br>📫 How to reach me aamine.moumen@outlook.fr or hello@kodio.studio<br><br>📄 Know about my experiences :<br><br>- Front-end Developer & Webdesigner at Dreamservices<br><br>- Fullstack Developer at Anetmo<br><br>
+💫 A Fullstack Developer & UI-UX Designer from France<br /><br />👨‍💻 All of my projects are available at <a href="https://amine-moumen.fr" target="_blank">amine-moumen.fr</a><br /><br />👨‍💻 I'm the founder of a web agency based in Lille named Kodio Studio. You can check it at <a href="https://www.kodio.studio" target="_blank">www.kodio.studio</a><br /><br />📫 How to reach me aamine.moumen@outlook.fr or hello@kodio.studio<br><br>📄 Know about my experiences :<br /><br />- Front-end Developer & Webdesigner at Dreamservices<br /><br />- Fullstack Developer at Anetmo<br /><br />
 
 
 ## 🌐 Socials :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aminemn._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amine-moumen) 
-<br />
+<br /><br />
 # 💻 Tech Stack :
 Languages: <br /><br />
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
