@@ -1,5 +1,5 @@
-# 💫 About Me :
-<strong>Hi 👋, I'm Amine</strong><br><br>A Fullstack Developer & UI-UX Designer from France<br><br>👨‍💻 All of my projects are available at amine-moumen.fr<br><br>👨‍💻 I'm the founder of a web agency based in Lille named Kodio Studio. You can check it at www.kodio.studio<br><br>📫 How to reach me aamine.moumen@outlook.fr<br><br>📄 Know about my experiences :<br><br>Front-end Developer & Webdesigner at Dreamservices<br><br>Fullstack Developer at Anetmo
+# Hi 👋, I'm Amine :
+A Fullstack Developer & UI-UX Designer from France<br><br>👨‍💻 All of my projects are available at amine-moumen.fr<br><br>👨‍💻 I'm the founder of a web agency based in Lille named Kodio Studio. You can check it at www.kodio.studio<br><br>📫 How to reach me aamine.moumen@outlook.fr<br><br>📄 Know about my experiences :<br><br>Front-end Developer & Webdesigner at Dreamservices<br><br>Fullstack Developer at Anetmo
 
 
 ## 🌐 Socials :
